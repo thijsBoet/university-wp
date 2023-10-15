@@ -1,0 +1,19 @@
+/*
+  Theme Name: University
+  Author: Thijs Boet
+  version: 1.0 beta
+  Description: A theme for the University of Applied Sciences of Amsterdam
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Montserrat&display=swap');
+
+body {
+  background-color: orange;
+  color: white;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.85rem;
+}
+
+ul {
+  list-style-type: none;
+}
